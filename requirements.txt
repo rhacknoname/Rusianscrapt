@@ -1,0 +1,5 @@
+csv
+requests
+beautifulsoup4
+googletrans
+colorama
